@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - Attack
+  - Enemy
+  - Item
   layers:
   - Default
   - TransparentFX
@@ -39,6 +42,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: some carai
+    uniqueID: 3371694401
+    locked: 0
+  - name: BackGround
+    uniqueID: 1712293691
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 538876491
+    locked: 0
+  - name: FrontGround
+    uniqueID: 544928211
     locked: 0
